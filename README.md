@@ -1,4 +1,4 @@
-# SAP ERP Blueprint — Wizplex Toys Inc.
+# SAP ERP Blueprint - Wizplex Toys Inc.
  
 **Capstone Project | KIIT University, Bhubaneswar**
  
